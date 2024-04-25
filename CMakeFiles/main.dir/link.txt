@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/arm_sim.cpp.o CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/rpi_serial.cpp.o CMakeFiles/main.dir/serial.cpp.o CMakeFiles/main.dir/servo.cpp.o CMakeFiles/main.dir/tcpServer.cpp.o -o main  -lwiringPi 
